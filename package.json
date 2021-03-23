@@ -1,0 +1,23 @@
+{
+  "name": "lahacks2021",
+  "version": "1.0.0",
+  "description": "## We are working on the Impact Track",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "client": "cd client && npm run dev",
+    "server": "cd server && npm start",
+    "install client": "cd client && npm install",
+    "install server": "cd server && npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbob486/LaHacks2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbob486/LaHacks2021/issues"
+  },
+  "homepage": "https://github.com/dbob486/LaHacks2021#readme"
+}
