@@ -12,11 +12,9 @@
     "@chakra-ui/react": "^1.4.1",
     "@emotion/react": "^11.1.5",
     "@emotion/styled": "^11.1.5",
-    "client": "^0.0.1",
     "framer-motion": "^4.0.2",
     "next": "10.0.9",
     "react": "17.0.2",
-    "react-dom": "17.0.2",
-    "server": "^1.0.32"
+    "react-dom": "17.0.2"
   }
 }
